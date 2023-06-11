@@ -352,7 +352,7 @@ public class PriceInfoTooltip {
         apiAddresses.put("3 day avg", "https://moulberry.codes/auction_averages_lbin/3day.json.gz");
         apiAddresses.put("bazaar", "https://hysky.de/api/bazaar");
         //apiAddresses.put("lowest bins", "https://lb.tricked.pro/lowestbins");
-        apiAddress.put("lowest bins","https://hysky.de/api/auctions/lowestbins");//or https://moulberry.codes/lowestbin.json.gz
+        apiAddresses.put("lowest bins","https://hysky.de/api/auctions/lowestbins");//or https://moulberry.codes/lowestbin.json.gz
         apiAddresses.put("npc", "https://hysky.de/api/npcprice");
         apiAddresses.put("museum", "https://hysky.de/api/museum");
     }
